@@ -1,3 +1,1 @@
-yourArray.push("hello");
-yourArray.push(12);
-yourArray.push(true);
+yourArray = ["hello", 12, true , 1, 2];
